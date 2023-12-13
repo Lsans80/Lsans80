@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luisa</h1>
 <h3 align="center">Backend Java trainee</h3>
 
-- 🌱 I’m currently learning **Java, JUnit, Mongo, Spring...**
+- 🌱 I’m currently learning **Java + Spring boot specialization.**
 
 - 💬 Ask me about **whatever you want and let's see if I can help you.**
 
