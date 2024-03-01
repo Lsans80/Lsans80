@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luisa</h1>
 <h3 align="center">Backend Java trainee</h3>
 
-- 🌱 I’m currently learning **Java + Spring boot specialization.**
+- 🌱 I’m actively seeking a job as a **backend Java developer.**
 
 - 💬 Ask me about **whatever you want and let's see if I can help you.**
 
@@ -20,8 +20,16 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-</a>
+</a> 
+<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/>
+</a> 
+<a href="https://www.swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original-wordmark.svg" alt="swagger" width="40" height="40"/>
+</a> 
+<a href="https://www.junit.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/>
 
