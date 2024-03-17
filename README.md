@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luisa</h1>
-<h3 align="center">Backend Java trainee</h3>
+<h3 align="center">Backend Java developer</h3>
 
 - 🌱 I’m actively seeking a job as a **backend Java developer.**
 
