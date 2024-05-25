@@ -3,7 +3,7 @@
 
 - 🌱 I’m actively seeking a job as a **backend Java developer.**
 
-- 💬 Ask me about **whatever you want and let's see if I can help you.**
+- 💬 Ask me about **whatever you want and I will do my best to help you.**
 
 - 📫 How to reach me **luisa.sans@gmail.com**
 
